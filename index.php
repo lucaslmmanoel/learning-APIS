@@ -39,7 +39,7 @@
                                 <tbody>
                                      <td> $api->API </td>
                                      <td>$api->Description</td>
-                                     <td><a href='$api->link'>Link</td></a>
+                                     <td><a href='$api->Link'>Link</td></a>
                                 </tbody>
                             ";
                             }
